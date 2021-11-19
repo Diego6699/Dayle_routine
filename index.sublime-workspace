@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"fon-",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backgroud",
+				"background-attachment"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fons",
+				"font-style"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"c",
+				"cyan"
+			],
+			[
+				"dys",
+				"display"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"blue",
+				"skyblue"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"hi",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Debora/Desktop/trabalho da faculdade/Dayle routine/projeto2/contato.html",
+		"/C/Users/Debora/Desktop/trabalho da faculdade/Dayle routine/projeto2/quem-somos.html",
+		"/C/Users/Debora/Desktop/trabalho da faculdade/Dayle routine/projeto2/receitas.html",
+		"/C/Users/Debora/Desktop/trabalho da faculdade/Dayle routine/projeto2/estilo.css",
+		"/C/PROGRAMACAO/web/04/projeto anabela/index.html",
+		"/C/PROGRAMACAO/web/04/projeto anabela/biografia.html",
+		"/C/PROGRAMACAO/web/04/projeto anabela/campanha-publicitaria.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/estilo-texto.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/teste.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/bordas.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/tamanho-textos.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/fontes-cores.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/div-span.html",
+		"/C/Users/Debora/Desktop/projeto/refeicao/jantar.html",
+		"/C/Users/Debora/Desktop/projeto/refeicao/almoco.html",
+		"/C/Users/Debora/Desktop/projeto/refeicao/lenches.html",
+		"/C/Users/Debora/Desktop/projeto/refeicao/cafe-da-manha-html",
+		"/C/Users/Debora/Desktop/projeto/contato.html",
+		"/C/Users/Debora/Desktop/projeto/index.html",
+		"/C/Users/Debora/Desktop/projeto/quem-somos.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/class_ids.html",
+		"/C/PROGRAMACAO/web/ProjetoCSS3/inline_style.html",
+		"/C/PROGRAMACAO/web/03/projeto/contato.html",
+		"/C/PROGRAMACAO/web/03/projeto/quem-somos.html",
+		"/C/PROGRAMACAO/web/03/projeto/index.html",
+		"/C/PROGRAMACAO/web/03/20_caracter especial.html",
+		"/C/PROGRAMACAO/web/03/19_formulario.html",
+		"/C/PROGRAMACAO/web/03/21_pagina inicial.html",
+		"/C/PROGRAMACAO/web/03/teste.html",
+		"/C/PROGRAMACAO/web/03/teste..thml",
+		"/C/PROGRAMACAO/web/03/19_fomularios",
+		"/C/PROGRAMACAO/web/03/18_formulario.html",
+		"/C/PROGRAMACAO/web/03/16_tabelas.html",
+		"/C/PROGRAMACAO/web/03/17_formulario",
+		"/C/PROGRAMACAO/web/contato.html",
+		"/C/PROGRAMACAO/web/index.html",
+		"/C/PROGRAMACAO/html/contato.html",
+		"/C/PROGRAMACAO/html/index.html",
+		"/C/PROGRAMACAO/web/imagens/Mustang-Mach-E-GT.jpg",
+		"/C/PROGRAMACAO/web/css/estilo.css",
+		"/C/PROGRAMACAO/html/q1.html",
+		"/C/xampp/htdocs/teste.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Debora/Desktop/PHP/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
