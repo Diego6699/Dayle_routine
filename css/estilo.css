@@ -137,3 +137,14 @@ h3 {
 	display: block;
 
 }
+#fomulario{
+	padding: 10px;
+	text-align: center;
+
+}
+#fomulario h3 {
+	color: green;
+	background: #ebffec;
+	padding: 5px;
+
+}
