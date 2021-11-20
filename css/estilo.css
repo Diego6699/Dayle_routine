@@ -37,13 +37,15 @@ body{
 }*/
 
 #area-postagens {
-	width: 660px;
+	/*width: 660px;*/
+	width: 66%;
 	float: left;
 
 }
 
 #area-lateral {
-	width: 240px;
+	/*width:  240px;*/
+	width: 24%;
 	float: right;
 }
 .postagem {
@@ -162,27 +164,32 @@ h3 {
 **** receitas ****
 */
 #receitas-principal{
-	width: 920px;
+	width: 800px;
 	margin: 0 auto;
 	padding: 15px;
 	background-color: white;
 }
 .receitas-imagem {
-	padding: 15px;
+	padding-right: 1em;
+	padding-left: 2em;
 	text-align: center;
+	height: auto;
+	width: 63vw;
 
 }
 .receitas-texto{
+	/*
 	padding-left: 5em;
-	padding-left: 5em;
-	width: 48.75em;
+	padding-left: 5em;*/
+	margin-left: 4em;
+	margin-right: 4em;
+	width: auto;
 }
 .receitas-h{
 	text-align: center;
 	padding: 1.5em;
 }
-.receitas-leiamais{
-	padding-left: 5em;
-}
+
+
 
 
