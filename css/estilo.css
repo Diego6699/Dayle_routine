@@ -167,4 +167,22 @@ h3 {
 	padding: 15px;
 	background-color: white;
 }
+.receitas-imagem {
+	padding: 15px;
+	text-align: center;
+
+}
+.receitas-texto{
+	padding-left: 5em;
+	padding-left: 5em;
+	width: 48.75em;
+}
+.receitas-h{
+	text-align: center;
+	padding: 1.5em;
+}
+.receitas-leiamais{
+	padding-left: 5em;
+}
+
 
