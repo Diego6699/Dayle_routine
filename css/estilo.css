@@ -127,6 +127,9 @@ h3 {
 	background: lightgreen;
 	padding: 5px;
 }
+p {
+	text-align: justify;
+}
 .branco {
 	color: white;
 }
