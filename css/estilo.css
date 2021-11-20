@@ -137,14 +137,34 @@ h3 {
 	display: block;
 
 }
-#fomulario{
-	padding: 10px;
+/*
+****  pagina contato ****
+*/
+.formulario {
+	background-color: white;
 	text-align: center;
 
 }
-#fomulario h3 {
-	color: green;
-	background: #ebffec;
-	padding: 5px;
-
+.butao {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
+.butao:hover {
+	background-color: darkgreen;
+}
+/*
+**** receitas ****
+*/
+#receitas-principal{
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+	background-color: white;
+}
+
