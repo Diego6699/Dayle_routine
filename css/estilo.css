@@ -133,6 +133,9 @@ p {
 .branco {
 	color: white;
 }
+#area-principal p {
+	padding-right: 1.4em;
+}
 
 .data-postagem {
 	font-size: 0.8em;
