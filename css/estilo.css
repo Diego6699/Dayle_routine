@@ -212,33 +212,3 @@ p {
 	background: lightgreen;
 	
 }
-#imagem-perfil1 {
-	background-image: url('https://img.freepik.com/fotos-gratis/3d-rendem-de-uma-mesa-de-madeira-com-uma-imagem-defocussed-de-um-barco-em-um-lago_1048-3432.jpg?size=626&ext=jpg');
-	width: 350px;
-	height: 200px;
-	padding: 10px;
-	margin: 5px;
-	background-size: cover;
-}
-#imagem-perfil2 {
-	background-image: url('https://img.freepik.com/fotos-gratis/3d-rendem-de-uma-mesa-de-madeira-com-uma-imagem-defocussed-de-um-barco-em-um-lago_1048-3432.jpg?size=626&ext=jpg');
-	width: 350px;
-	height: 200px;
-	padding: 10px;
-	margin: 5px;
-	background-size: cover;
-}
-#imagem-perfil3 {
-	background-image: url('https://img.freepik.com/fotos-gratis/3d-rendem-de-uma-mesa-de-madeira-com-uma-imagem-defocussed-de-um-barco-em-um-lago_1048-3432.jpg?size=626&ext=jpg');
-	width: 350px;
-	height: 200px;
-	padding: 10px;
-	margin: 5px;
-	background-size: cover;
-}
-
-.texto-perfil {
-	padding: 10 px;
-	margin: 5 px;
-	border: 2px solid red;
-}
